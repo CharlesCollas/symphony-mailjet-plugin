@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="mailjet" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Mailjet</name>
+	<description>Use Mailjet to send email</description>
+	<repo type="github">https://github.com/mailjet/symphony</repo>
+	<types>
+		<type>Third Party Integration</type>
+		<type>Email</type>
+	</types>
+	<authors>
+		<author>
+			<name github="mailjet" symphony="mailjet">Mailjet</name>
+			<website>http://www.mailjet.com</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2013-03-01" min="2.2" max="2.2.x" />
+	</releases>
+</extension>
