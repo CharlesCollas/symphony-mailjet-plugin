@@ -1,4 +1,4 @@
-Mailjet
+[API v1] Mailjet
 =======
 
 Summary
